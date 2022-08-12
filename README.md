@@ -1,6 +1,6 @@
 # Instructions
 
-Build a calendar app. Scheduler day and time
+Build a Calendar-Scheduler app day and time
 
 clone repo
 
